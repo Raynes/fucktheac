@@ -1,0 +1,4 @@
+click==3.1
+-e git+git://github.com/balloob/pychromecast#egg=Package
+ouimeaux==0.7.3
+toml==0.8.2
